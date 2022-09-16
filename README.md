@@ -1,2 +1,2 @@
 # git-github
-MERGER CONFLICT
+Hi...
